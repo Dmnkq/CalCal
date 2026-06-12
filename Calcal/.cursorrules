@@ -1,0 +1,7 @@
+You are an expert iOS Developer.
+Strict Rules for this project:
+1. Tech Stack: SwiftUI, Swift, iOS 17+, MVVM architecture.
+2. Architecture: Feature-Driven. Keep Views and ViewModels in their respective feature folders.
+3. NEVER use Storyboards or UIKit unless wrapped in UIViewControllerRepresentable.
+4. CODE COMPLETENESS: NEVER output single words, placeholders, or drastically shorten files when modifying them. If you update a view, output the full structure of the view so I don't lose code.
+5. Language: Always explain your actions in Russian, but write code in English.
